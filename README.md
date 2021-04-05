@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adrian Harris
+- 👀 I’m interested in C#, .Net, SQL, Windows, Automotive
+- 🌱 I’m currently learning Iot, Arduino, Azure
+- 📫 How to reach me 
